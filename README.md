@@ -15,9 +15,6 @@ A pixel-perfect, fully responsive React.js website for an ice cream company, bui
 🎥 Smooth Interactions – Hover effects, transitions, and scroll behavior
 
 📁 Project Structure
-bash
-Copy
-Edit
 src/
 ├── components/
 │   ├── Navbar.jsx            # Responsive navigation bar with mobile menu
@@ -30,6 +27,7 @@ src/
 ├── App.css                   # Custom app styling
 ├── index.css                 # Global styles
 └── index.js                  # Entry point
+
 🎨 Design System
 🎨 Colors
 Primary: Orange shades (#f3770a, #e45c00)
