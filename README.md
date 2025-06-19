@@ -26,9 +26,9 @@ This project replicates a provided Figma prototype to demonstrate frontend skill
 
 ---
 
-## 📁 Folder Structure
+<pre><code>## 📁 Folder Structure
 
-ice-cream-react/
+<code>ice-cream-react/
 ├── public/
 │ ├── index.html
 │ ├── favicon.ico
@@ -50,7 +50,7 @@ ice-cream-react/
 ├── package.json
 ├── vercel.json
 └── README.md
-
+</code> </code></pre>
 yaml
 Copy code
 
